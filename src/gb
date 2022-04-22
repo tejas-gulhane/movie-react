@@ -1,0 +1,21 @@
+{
+    path.map((value,index)=>{
+   
+   console.log(value.Title)
+    })
+   }
+
+
+
+                    <img src="https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg" alt="" />
+              <div>
+                <span>Name :</span><h1>{}</h1>
+              </div>
+              <div>
+                <span>Genre :</span><h1>Family Drama</h1>
+              </div>
+              <div>
+                <span>Release:</span><h1>05 May 2017</h1>
+              </div>
+   <div className="card">
+        </div>
